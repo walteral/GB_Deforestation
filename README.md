@@ -15,19 +15,19 @@ dataset within Google Earth Engine multi-temporal analysis can quickly be perfor
 
 [Here](https://code.earthengine.google.com/4e5dc5ac9be55b813aae3ac6ee2dfc4b) is a link to the code used to create this preliminary analysis  
 
-##Results
+## Results
 
 There are nine administrative areas within Guinea-Bissau that can be separated into three regions:
-####Coastal  
+#### Coastal  
 1. Cacheu
 2. Tombali
 3. Quinara
 4. Biombo
 
-####Islands
+#### Islands
 5. Bijagos
 
-####Inland
+#### Inland
 6. Bafata
 7. Bissau
 8. Oio
